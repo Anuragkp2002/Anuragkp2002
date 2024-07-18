@@ -13,12 +13,11 @@
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://linkedin.com/in/AnuragRamesh" target="_blank">
-        <i class="fab fa-linkedin" style="font-size: 30px; color: #0e76a8;"></i>
-    </a>
-    <a href="https://instagram.com/_anraagh" target="_blank">
-        <i class="fab fa-instagram" style="font-size: 30px; color: #E1306C;"></i>
-    </a>
+<a href="https://linkedin.com/in/Anurag Ramesh" target="blank"><img align="center"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-  
+generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Anurag Ramesh" height="30" width="40" /></a>
+
+<a href="https://instagram.com/_anraagh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_anraagh" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
