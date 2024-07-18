@@ -13,7 +13,7 @@
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/anurag-ramesh2002" target="blank"><img align="center" src="http://www.w3.org/2000/svg" alt="anurag-ramesh2002" height="30" width="40" /></a><a href="https://instagram.com/_anraagh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_anraagh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anurag-ramesh2002" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="anurag-ramesh2002" height="30" width="40" /></a><a href="https://instagram.com/_anraagh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_anraagh" height="30" width="40" /></a>
 
 </p>
 
