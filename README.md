@@ -1,10 +1,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 
-
 <h1 align="center">Hello 👋, I'm Anurag </h1>
 <h3 align="center">💻 Python Developer</h3>
-
-
 
 - 🔭 I’m currently working on **Summit Solutions**
   
@@ -12,15 +9,13 @@
 
 - 📫 How to reach me **kpanurag2002@gmail.com**
  
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/AnuragRamesh" target="_blank">
-        <i class="fa-brands fa-linkedin" style="font-size: 30px; color: #0e76a8;"></i>
+        <i class="fab fa-linkedin" style="font-size: 30px; color: #0e76a8;"></i>
     </a>
-
-  <a href="https://instagram.com/_anraagh"  target="_blank">
-        <i class="fa-brands fa-instagram" style="font-size: 30px; color: #0e76a8;"></i>
+    <a href="https://instagram.com/_anraagh" target="_blank">
+        <i class="fab fa-instagram" style="font-size: 30px; color: #E1306C;"></i>
     </a>
 </p>
 
