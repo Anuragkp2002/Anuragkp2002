@@ -84,7 +84,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anuragkp2002&show_icons=true&locale=en&bg_color=000000&text_color=ffffff" alt="GitHub Stats" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anuragkp2002&theme=black-ice&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" alt="GitHub Streak" />
-</p>
+
 
